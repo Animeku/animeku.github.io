@@ -1,2 +1,1 @@
-# animeku.github.io
-Website
+![Animeku](/animeku.png?raw=true)
